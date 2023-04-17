@@ -9,7 +9,7 @@ public class FtfApplication {
     public static void main(String[] args) {
         SpringApplication.run(FtfApplication.class, args);
 
-        System.out.println("启动成功");
+        System.out.println("start successfully");
     }
 
 }
